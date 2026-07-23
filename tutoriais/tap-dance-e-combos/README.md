@@ -31,6 +31,7 @@ Como configurar no Vial
 2.	Escolha um slot vazio
 3.	Marque as 2 (ou mais) teclas físicas que, juntas, vão disparar o combo (usando o teclado virtual desenhado ali)
 4.	Defina qual ação/tecla deve ser produzida quando esse combo for detectado
+
 Detalhe importante — o tempo
 Existe um "tempo limite" (chamado timeout, geralmente uns 150ms por padrão) dentro do qual as teclas precisam ser apertadas quase juntas para o combo ser reconhecido. Isso fica configurável na aba "QMK Setting", procurando por algo relacionado a "Combo term" ou parecido.
 
