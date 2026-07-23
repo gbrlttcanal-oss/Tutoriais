@@ -1,4 +1,5 @@
 Tap Dance (aba "Tap Danc" no Vial)
+
 A ideia é simples: a mesma tecla física faz coisas diferentes dependendo de quantas vezes (ou como) você aperta ela, dentro de uma janela curta de tempo.
 Cada Tap Dance tem até 4 comportamentos configuráveis:
 •	On tap (1 toque rápido) → ação A
@@ -18,6 +19,7 @@ Como configurar no Vial
 4.	Vá até o layout do teclado (aba Keymap) e coloque essa tecla TD(0) na posição física que você quiser usar
 ________________________________________
 Combos (aba "Combo" no Vial)
+
 A ideia aqui é: apertar 2 ou mais teclas ao mesmo tempo produz um resultado diferente do que cada uma faria sozinha.
 Exemplo prático
 •	Apertar A + S juntos → dispara Escape
